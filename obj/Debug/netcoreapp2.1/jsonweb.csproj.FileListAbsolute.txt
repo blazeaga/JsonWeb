@@ -1,0 +1,11 @@
+C:\Users\pk_bl\source\repos\jsonweb\jsonweb\bin\Debug\netcoreapp2.1\jsonweb.deps.json
+C:\Users\pk_bl\source\repos\jsonweb\jsonweb\bin\Debug\netcoreapp2.1\jsonweb.runtimeconfig.json
+C:\Users\pk_bl\source\repos\jsonweb\jsonweb\bin\Debug\netcoreapp2.1\jsonweb.runtimeconfig.dev.json
+C:\Users\pk_bl\source\repos\jsonweb\jsonweb\bin\Debug\netcoreapp2.1\jsonweb.dll
+C:\Users\pk_bl\source\repos\jsonweb\jsonweb\obj\Debug\netcoreapp2.1\jsonweb.csprojAssemblyReference.cache
+C:\Users\pk_bl\source\repos\jsonweb\jsonweb\obj\Debug\netcoreapp2.1\jsonweb.csproj.CoreCompileInputs.cache
+C:\Users\pk_bl\source\repos\jsonweb\jsonweb\obj\Debug\netcoreapp2.1\jsonweb.RazorAssemblyInfo.cache
+C:\Users\pk_bl\source\repos\jsonweb\jsonweb\obj\Debug\netcoreapp2.1\jsonweb.RazorAssemblyInfo.cs
+C:\Users\pk_bl\source\repos\jsonweb\jsonweb\obj\Debug\netcoreapp2.1\jsonweb.AssemblyInfoInputs.cache
+C:\Users\pk_bl\source\repos\jsonweb\jsonweb\obj\Debug\netcoreapp2.1\jsonweb.AssemblyInfo.cs
+C:\Users\pk_bl\source\repos\jsonweb\jsonweb\obj\Debug\netcoreapp2.1\jsonweb.RazorTargetAssemblyInfo.cache
